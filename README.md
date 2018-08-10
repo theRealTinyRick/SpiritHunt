@@ -1,0 +1,2 @@
+# SpiritHunt
+Monster taming game
